@@ -11,6 +11,8 @@ public class If_Demo {
 		 * Code to be executed
 		 * }
 		 */
+		
+		// This is an example of control statement
 		int age = 16;
 		System.out.println("Testing if condition status: ");
 		
