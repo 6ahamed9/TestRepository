@@ -13,7 +13,8 @@ public class Do_While_Loop {
 		 */
 		// do while loop run at lest run once even the condition is not true
 		
-		String myPlace = "Brooklyn";
+		// Made changes to the place
+		String myPlace = "The Bronx";
 		int start = 1;
 		
 		do {
